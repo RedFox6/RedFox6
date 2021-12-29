@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedFox6
+- 👋 Hi, I’m @Samuel
 - 👀 I’m interested in develop web applications
-- 🌱 I’m currently learning Laravel e Node.js
+- 🌱 I’m currently learning **Vue**
 - 📫 How to reach me <a href="https://www.facebook.com/slyr305/" target="_blank">Facebook</a>
