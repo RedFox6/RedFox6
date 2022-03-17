@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Samuel
-- 👀 I’m interested in develop web applications
-- 🌱 I’m currently learning **Vue**
+- 👀 I’m interested in develop web applications 
+- 🎓 I'm majored in Systems Analysis and Development
+- ☕ I'm studying post graduation in Systems Development with Java
 - 📫 How to reach me <a href="https://www.facebook.com/slyr305/" target="_blank">Facebook</a>
